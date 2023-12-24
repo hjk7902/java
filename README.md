@@ -15,11 +15,11 @@
 ## 프로젝트에 빨간색 느낌표 보일 때
  - JRE Library가 잘못되어 있을 경우
 
-1. 프로젝트에서 마우스 오른쪽 버튼 -> Build Path -> Configure Build Path
-2. Java Build Path창에서 
-  2-1. Libraries 탭 누르고
-  2-2. Modulepath 항목 아래의 빨간색 보이는 라이브러리 선택하고 Remove
-   2-3. 다시 Modulepath항목 선택하고 오른쪽 [Add Library] 버튼 클릭
-  2-4. JRE System Library 선택 후 Next 버튼 클릭
-  2-5. Execution enviromment: JavaSE-21 선택, Finish
-3. Java Build Path 창에서 Apply and Close 버튼 눌러 적용
+1. 프로젝트에서 마우스 오른쪽 버튼 -> Build Path -> Configure Build Path<br>
+2. Java Build Path창에서 <br>
+  2-1. Libraries 탭 누르고<br>
+  2-2. Modulepath 항목 아래의 빨간색 보이는 라이브러리 선택하고 Remove<br>
+   2-3. 다시 Modulepath항목 선택하고 오른쪽 [Add Library] 버튼 클릭<br>
+  2-4. JRE System Library 선택 후 Next 버튼 클릭<br>
+  2-5. Execution enviromment: JavaSE-21 선택, Finish<br>
+3. Java Build Path 창에서 Apply and Close 버튼 눌러 적용<br>
