@@ -23,3 +23,4 @@
   2-4. JRE System Library 선택 후 Next 버튼 클릭<br>
   2-5. Execution enviromment: JavaSE-21 선택(unbound가 아닌 가장 최근 항목으로 선택), Finish<br>
 3. Java Build Path 창에서 Apply and Close 버튼 눌러 적용<br>
+* 2-2에서 Remove가 아닌 Edit 클릭하고 다른 버전의 JRE System Library 선택해도 됨.
